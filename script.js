@@ -1,5 +1,14 @@
 const SUPPORTED_STREAMERS = [
-    "www.netflix.com"
+    "www.netflix.com",
+    "www.amazon.com",
+    "www.disneyplus.com",
+    "www.hulu.com",
+    "play.max.com",
+    "www.paramountplus.com",
+    "tv.apple.com",
+    "www.peacocktv.com",
+    "www.youtube.com",
+    "tv.youtube.com"
 ]
 
 async function fetchData() {
