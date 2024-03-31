@@ -1,16 +1,20 @@
 {
-    "name" : "Dual Language Captions",
+    "name" : "Dual-Language Captions and Subtitles",
     "version" : "0.0.1",
-    "description" : "This is an extension to display captions in multiple languages simultaneously on most of the popular streaming services.",
+    "description" : "Display captions in multiple languages simultaneously on most of the popular streaming services.",
 
     "permissions": [
         "tabs"
     ],
 
+    "icons": { "16": "mlccs16.png",
+           "48": "mlccs48.png",
+          "128": "mlccs128.png" },
+
     "manifest_version" : 3,
     "author" : "Evan Brummer",
     "action" : {
         "default_popup" : "index.html",
-        "default_title" : "Dual Language Captions"
+        "default_title" : "Dual-Language Captions and Subtitles"
     }
 }
