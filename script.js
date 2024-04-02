@@ -42,7 +42,7 @@ identifyCurrentService();
  * 2) it's recognized (disney, netflix, whatever)
  * 3) app name and favico shown on ext with a toggle switch to "Select multiple languages"
  *      - maybe an extra checkbox to "automatically set text to smallest option"
- * 4) opening the CC/subtitles menu of the player looks and functions the same, but you can check/select more than one
+ * 4) opening the CC/subtitles menu of the player looks and functions the same, but you can tick/select more than one
  *      - they will show vertically in the order selected, and maybe be marked as (1) English ... (2) Spanish
  *      - "Are you not entertained?"
  *      - "¿No estás entretenido?"
